@@ -5,7 +5,7 @@
 <!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
 <!--[if (gte IE 9)|(gt IEMobile 7)]><!-->
 <html class="js wf-franklingothicurw-n3-active wf-franklingothicurw-n5-active wf-franklingothicurwcond-n7-active wf-active" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# fb: http://ogp.me/ns/fb#" lang="en"><!--<![endif]--><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="cash_files/shares.json" type="text/javascript"></script><script src="cash_files/counter020.js" type="text/javascript"></script><script src="cash_files/menu169.js" type="text/javascript"></script>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="_includes/js/menu169.js" type="text/javascript"></script>
   <meta charset="utf-8">
 <meta name="description" content="Gifts of cash (money order) or personal check are generally tax deductible up to 50% of the donor's adjusted gross income. Any excess can be carried over for five years. Send your gift to Rensselaer via secure lockbox: Rensselaer Polytechnic Institute Gifts Processing Center P.O. Box 3164 Boston, MA 02241-3164">
 
@@ -27,7 +27,7 @@
 <!--[if lt IE 9]>
 <link type="text/css" rel="stylesheet" href="http://giving.rpi.edu/sites/default/files/advagg_css/css__83-L7m13udVX0vJSaFwu-ZzegnBuce-7mmpXO5y3vH0__PyODJzAU_uE5Hx1Wrzc7I0bcn647Gj1amR9XJrgJgLU__U78DXVtmNgrsprQhJ0bcjElTm2p5INlkJg6oQm4a72o.css" media="all" />
 <![endif]-->
-  <script src="cash_files/analytics.js" async=""></script><script src="cash_files/jquery.js"></script>
+  <script src="cash_files/jquery.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
 <script src="cash_files/js__H5AFmq1RrXKsrazzPq_xPQPy4K0wUKqecPjczzRiTgQ__pvMy9xuoSPQF.js"></script>
 <script src="cash_files/yac3sjj.js"></script>
