@@ -36,7 +36,7 @@
       <!--[if lt IE 9]>
     <script src="/sites/all/themes/zen/js/html5.js"></script>
     <![endif]-->
-  <link type="text/css" rel="stylesheet" href="/_includes/widget009.css" type="text/css" rel="stylesheet"><link media="all" href="Celebration-Support_files/widget009_002.css" type="text/css" rel="stylesheet"><link media="all" href="Celebration-Support_files/counter015.css" type="text/css" rel="stylesheet"></head>
+  <link type="text/css" rel="stylesheet" href="/_includes/widget009.css" type="text/css" rel="stylesheet"><link type="text/css" rel="stylesheet" href="/_includes/widget009_002.css" type="text/css" rel="stylesheet"><link type="text/css" rel="stylesheet" href="/_includes/counter015.css" type="text/css" rel="stylesheet"></head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-72 node-type-page section-celebration-support layout-full-read">
       <p id="skip-link">
       <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
