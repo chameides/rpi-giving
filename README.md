@@ -6,15 +6,11 @@ Pages that require dynamic features are set to link back to the live site.
 
 <a href="http://chameid.es/remarks/first-mobile-first/">View Design Remarks</a>
 
-##
-
-Authorship
+##Authorship
 
 Designed and front-end design by Michael Chameides. 
 
-##
-
-License 
+##License 
 
 Copyright, 2014 
 Michael Chameides and Rensselaer Polytechnic Institute
