@@ -14,7 +14,7 @@ Pages that require dynamic features are set to link back to the live site.
 
 ##Authorship
 
-Design and front-end design by Michael Chameides. 
+Design and front-end design by <a href="http://chameid.es">Michael Chameides</a>. 
 
 ##License 
 
